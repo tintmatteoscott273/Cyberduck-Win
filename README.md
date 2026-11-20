@@ -196,3 +196,6 @@ This repository serves as the official landing page for Cyberduck. The software 
 - 💬 **[Community](https://fqmek.berga.top/about-us/)**
 ---
 **Get the most recent version of Cyberduck today!**
+
+---
+**Last updated:** 2026-11-20 12:16:36 UTC
