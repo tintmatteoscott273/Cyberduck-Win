@@ -198,4 +198,4 @@ This repository serves as the official landing page for Cyberduck. The software 
 **Get the most recent version of Cyberduck today!**
 
 ---
-**Last updated:** 2026-11-27 19:12:42 UTC
+**Last updated:** 2026-11-28 02:17:26 UTC
